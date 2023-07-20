@@ -409,6 +409,7 @@ td span{
    }
    .spacex__block {
       display: grid;
+      justify-content: right;
    }
    .spacex__menu {
       margin-top: 125px;
