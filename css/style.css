@@ -540,4 +540,22 @@ td span{
    .img__link {
     width: 300px;
 }
+
+@media (max-width:330px){
+   
+   .spacex {
+    margin-bottom: 47px;
+   }
+   .spacex__table {
+    padding-left: 50px;
+   }
+   tbody {
+    font-size: 11px;
+    width: 273px;
+    margin-bottom: 68px;
+   }
+   .menu__list {
+    height: 79vh;
+
+   }
 }
