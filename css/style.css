@@ -435,7 +435,7 @@ td span{
    }
    .spacex__table {
       margin-top: 140px;
-      justify-content: center;
+      justify-content: left;
       display: grid;
       left: 57px;
       position: relative;
