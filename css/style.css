@@ -482,8 +482,8 @@ td span{
       z-index: 15;
    }
    .menu-btn {
-      left: 150px;
-      right: 0;
+      left: 250px;
+       right: 0
    }
    tbody{
       font-size: 13px;
@@ -506,7 +506,7 @@ td span{
    width: 300px;
    }
    .menu-btn {
-      left: 230px;
+      left: 290px;
    }
 }
 @media (max-width:390px){
@@ -514,7 +514,7 @@ td span{
       height: 320px;
    }
    .menu-btn {
-      left: 245px;
+      left: 273px;
       z-index: 15;
    }
    .menu__list {
