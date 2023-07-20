@@ -529,4 +529,11 @@ td span{
       right: 0;
       justify-content: start;
    }
+   .spacex__info-text {
+    padding: 0 10px;
+    max-width: 300px;
+   }
+  .spacex__table {
+    justify-content: left;
+    max-width: 350px;
 }
