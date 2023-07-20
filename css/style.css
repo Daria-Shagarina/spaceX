@@ -524,7 +524,7 @@ td span{
    .menu__list {
       left: 4px;
       width: 40vh;
-
+      height: 67vh;
    }
    .nav__block{
       gap: 9px;
