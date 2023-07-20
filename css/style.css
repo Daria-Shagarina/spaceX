@@ -507,11 +507,6 @@ td span{
    .menu-btn {
       left: 230px;
    }
-   /* .menu__list{
-   height: vh;
-
-   } */
-
 }
 @media (max-width:390px){
    .images__top {
