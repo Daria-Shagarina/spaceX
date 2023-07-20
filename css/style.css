@@ -536,4 +536,8 @@ td span{
   .spacex__table {
     justify-content: left;
     max-width: 350px;
+  }
+   .img__link {
+    width: 300px;
+}
 }
